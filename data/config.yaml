@@ -1,0 +1,20 @@
+path: /Users/aurel/Documents/Yolo_Detection/data
+train: train/images
+val: validation/images
+test: test/images
+
+
+nc: 9
+
+#Classes
+names:
+  0: Windel
+  1: Bio
+  2: Verbundkarton
+  3: Pappe
+  4: Maske
+  5: Zahnbuerste
+  6: Plastik
+  7: Metal
+  8: Papier
+
